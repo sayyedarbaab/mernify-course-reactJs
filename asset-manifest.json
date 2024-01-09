@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/course-project/static/css/main.6605d75e.css",
+    "main.js": "/course-project/static/js/main.8c717265.js",
+    "static/media/Arbab.png": "/course-project/static/media/Arbab.228e3c65c5f8ed95c07d.png",
+    "static/media/logo.jpg": "/course-project/static/media/logo.422d7c99b35b75e5afc6.jpg",
+    "index.html": "/course-project/index.html",
+    "main.6605d75e.css.map": "/course-project/static/css/main.6605d75e.css.map",
+    "main.8c717265.js.map": "/course-project/static/js/main.8c717265.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6605d75e.css",
+    "static/js/main.8c717265.js"
+  ]
+}
